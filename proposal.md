@@ -131,7 +131,7 @@ T:Block: [] {
   Ressource:id!
 }
 
-T?:PropBase: {
+T:PropBase: {
   S:name!: '''[a-z][1-90a-z_]*''' 
 }
 
